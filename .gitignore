@@ -1,7 +1,8 @@
 .directory
 compiled/
 st20.ssl
-config.h.in
+boomerang/include/config.h.in
+boomerang/include/config.h
 
 
 
